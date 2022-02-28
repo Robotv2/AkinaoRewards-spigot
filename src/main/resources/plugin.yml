@@ -1,0 +1,7 @@
+name: AkinaoRewards
+version: '${project.version}'
+main: fr.robotv2.akinaorewards.AkinaoRewards
+api-version: 1.18
+authors: [ Robotv2 ]
+softdepend:
+  - PlaceholderAPI
